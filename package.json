@@ -1,0 +1,26 @@
+{
+  "name": "compact-table",
+  "version": "1.0.0",
+  "description": "comman use table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilsarvaiyya/compact-table.git"
+  },
+  "keywords": [
+    "table",
+    "js",
+    "comman",
+    "table",
+    "json"
+  ],
+  "author": "Nikhil Sarvaiyya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilsarvaiyya/compact-table/issues"
+  },
+  "homepage": "https://github.com/nikhilsarvaiyya/compact-table#readme"
+}
