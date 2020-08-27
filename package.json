@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/nikhilsarvaiyya/compact-table/issues"
   },
-  "homepage": "https://github.com/nikhilsarvaiyya/compact-table#readme"
+  "homepage": "https://github.com/nikhilsarvaiyya/compact-table#readme",
+  "dependencies": {
+    "printable-characters": "^1.0.42"
+  }
 }
