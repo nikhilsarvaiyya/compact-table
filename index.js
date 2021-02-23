@@ -1,4 +1,4 @@
-function compactTable(min, max) {
-    return
+function CompactTable(min, max) {
+    return console.log("WIP")
 }
-module.exports = compactTable;
+module.exports = CompactTable;
